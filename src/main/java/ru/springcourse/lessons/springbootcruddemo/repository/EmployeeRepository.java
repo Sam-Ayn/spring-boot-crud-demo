@@ -1,4 +1,4 @@
-package ru.springcourse.lessons.springbootcruddemo.dao.api;
+package ru.springcourse.lessons.springbootcruddemo.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import ru.springcourse.lessons.springbootcruddemo.entitiy.Employee;
